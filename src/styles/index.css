@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+
+.logo {
+    background-image: url('../assets/powered_by_google_on_white.png');
+    width: 100px;
+    height: 100px;
+}
