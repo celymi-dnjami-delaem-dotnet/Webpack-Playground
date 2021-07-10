@@ -1,0 +1,25 @@
+{
+  "name": "webpackplayground",
+  "version": "1.0.0",
+  "description": "Webpack playground",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "style-loader": "^3.0.0",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2",
+    "xml-loader": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celymi-dnjami-delaem-dotnet/Webpack-Playground.git"
+  },
+  "author": "Dmitry Yaniuk",
+  "license": "ISC",
+  "homepage": "https://github.com/celymi-dnjami-delaem-dotnet/Webpack-Playground#readme"
+}
