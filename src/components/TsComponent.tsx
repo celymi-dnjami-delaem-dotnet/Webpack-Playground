@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TsComponent = (): JSX.Element => {
-    return <span>Ts component!!</span>
+    return <span className="scss-main">Ts component!!</span>
 } ;
 
 export default TsComponent;
